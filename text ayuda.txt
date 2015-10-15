@@ -1,0 +1,4 @@
+https://github.com/mevdschee/mysql-crud-api
+
+api res
+https://www.leaseweb.com/labs/2015/02/simple-php-rest-api-script-mysql/
